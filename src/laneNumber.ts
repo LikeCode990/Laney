@@ -1,3 +1,3 @@
-export default class laneNumber {
-
+export default class LaneNumber {
+  private value: number;
 }
